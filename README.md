@@ -1,6 +1,6 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=paoka1&show_icons=true&theme=algolia" />
-
 ### Hi there 👋
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=paoka1&show_icons=true&theme=algolia" />
 
 **I'm paoka1.**
 
