@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-I'm paoka1. I’m currently learning Cyber Security.
+I'm paoka1.
 
-Welcome to my blog: https://paoka1.top/
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=paoka1&show_icons=true&theme=algolia" />
 
-[![paoka1's GitHub stats](https://github-readme-stats.vercel.app/api?username=paoka1&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+1. 🌱 I’m currently learning Cyber Security.
+2. ✨ I write my blog at https://paoka1.top/.
