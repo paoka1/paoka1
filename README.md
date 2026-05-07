@@ -1,3 +1,3 @@
 ### 关于我
 
-不定期上传代码，just for fun
+不定期更新，just for fun
